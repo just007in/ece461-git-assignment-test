@@ -3,4 +3,6 @@ A test git repo for ECE 461
 
 Contributer: Justin Lee
 
-Edit by Justin
+Contributer: Jack Brewer
+
+Edited by Justin, Jack

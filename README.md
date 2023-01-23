@@ -5,4 +5,7 @@ Contributer: Justin Lee
 
 Contributer: Jack Brewer
 
-Edited by Justin, Jack
+Contributer: Claire Huang
+
+Edit by Justin, Jack, and Claire
+
